@@ -1,0 +1,7 @@
+README FIRST.
+IMP FILE.
+=====================================================================
+Hello there if you can read this file in my git repository,
+it means that I have successfully pushed new file in my git repository.
+=====================================================================
+Happy Coding.
